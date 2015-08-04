@@ -1,3 +1,5 @@
 melvins-website
 *.pyc
 staticfiles
+my.sublime-project
+my.sublime-workspace
